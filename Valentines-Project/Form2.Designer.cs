@@ -56,7 +56,7 @@
             label1.Name = "label1";
             label1.Size = new Size(356, 64);
             label1.TabIndex = 2;
-            label1.Text = "I guess we're going on a date! Meet me tomorrow at 9 AM.";
+            label1.Text = "OK KALO BOLEH NANTI WEEKEND KITA PACARAN YAYAYAYAYAYA AKU SAYANG KAMOO";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -70,7 +70,7 @@
             label2.Name = "label2";
             label2.Size = new Size(186, 28);
             label2.TabIndex = 3;
-            label2.Text = "- Yours, pookie <3.";
+            label2.Text = "- SAYANG AKOOOOOOOOO.";
             label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // Form2

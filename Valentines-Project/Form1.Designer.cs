@@ -42,7 +42,7 @@
             title.Name = "title";
             title.Size = new Size(382, 41);
             title.TabIndex = 0;
-            title.Text = "Will you be my Valentine?";
+            title.Text = "SAYANG AKOOOO, COULD I BE YOUR VALENTINE??? PWIIIISSSSS";
             title.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // btnNo
@@ -57,7 +57,7 @@
             btnNo.Size = new Size(100, 41);
             btnNo.TabIndex = 0;
             btnNo.TabStop = false;
-            btnNo.Text = "No";
+            btnNo.Text = "GABOLEH SOALNYA BAU";
             btnNo.UseVisualStyleBackColor = false;
             btnNo.Click += btnNo_Click;
             btnNo.MouseEnter += btnNo_MouseEnter;
@@ -73,7 +73,7 @@
             btnYes.Name = "btnYes";
             btnYes.Size = new Size(100, 41);
             btnYes.TabIndex = 2;
-            btnYes.Text = "Yes";
+            btnYes.Text = "BOLEEHHHHH :3";
             btnYes.UseVisualStyleBackColor = false;
             btnYes.Click += btnYes_Click;
             // 
